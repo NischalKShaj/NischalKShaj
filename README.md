@@ -1,4 +1,4 @@
-
+![logo](https://github.com/NischalKShaj/NischalKShaj/blob/main/GITBANNER.png)
 <h1 align="center">Hi 👋, I'm Nischal K Shaj</h1>
 <h3 align="center">🚀 Self-taught MERN Stack Dev 🌐 | Passion for Code 💻 | Learning & Building 🛠️</h3>
 
