@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalkshaj&label=Profile%20views&color=0e75b6&style=flat" alt="nischalkshaj" /> </p>
 
-- 🔭 I’m currently working on **Step Crazy an ecommerce website**
+- 🔭 I’m currently working on **an ecommerce website Step Crazy**
 
 - 🌱 I’m currently learning **Web development**
 
