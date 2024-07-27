@@ -15,9 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nischal k shaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischal k shaj" height="30" width="40" /></a>
-<a href="https://instagram.com/_._nischal_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._nischal_._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nischal_k_shaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nischal_k_shaj" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nischal-k-shaj" target="blank" style="display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischal k shaj" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_._nischal_._" target="blank" style="display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._nischal_._" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/nischal_k_shaj" target="blank" style="display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nischal_k_shaj" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
