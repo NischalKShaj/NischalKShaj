@@ -1,7 +1,7 @@
 ![logo](https://github.com/NischalKShaj/NischalKShaj/blob/main/gitbanner.png)
 <h1 align="center">Hi 👋, I'm Nischal K Shaj</h1>
 <h3 align="center">🚀 Self-taught MERN Stack Dev 🌐 | Passion for Code 💻 | Learning & Building 🛠️</h3>
-<img align="right" alt="coding" width=400 src="https://assets.leetcode.com/users/images/57af59cc-f626-443f-a48f-7866ed0f969e_1729176512.9833336.gif">
+<img align="right" alt="coding" height=200 width=400 src="https://assets.leetcode.com/users/images/57af59cc-f626-443f-a48f-7866ed0f969e_1729176512.9833336.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalkshaj&label=Profile%20views&color=0e75b6&style=flat" alt="nischalkshaj" /> </p>
 
