@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalkshaj&label=Profile%20views&color=0e75b6&style=flat" alt="nischalkshaj" /> </p>
 
-- 🔭 I’m currently working on **Code Sprint an e-learning platform**
+- 🔭 I’m currently working at **Scita Solutions**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **AI, Machine Learning, and advanced web development**
 
-- 💬 Ask me about **react, nodejs, mongodb,javascript,typescript,nextjs**
+- 💬 Ask me about **react, nodejs, expressjs, mongodb,javascript,typescript,nextjs**
 
 - 📫 How to reach me **nischalkshaj5@gmail.com**
 
