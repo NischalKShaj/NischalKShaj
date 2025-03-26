@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalkshaj&label=Profile%20views&color=0e75b6&style=flat" alt="nischalkshaj" /> </p>
 
-- 🔭 I’m currently working at **Scita Solutions**
+- 🔭 I’m currently working at **Scita Solutions, Bangalore**
 
 - 🌱 I’m currently learning **AI, Machine Learning, and advanced web development**
 
