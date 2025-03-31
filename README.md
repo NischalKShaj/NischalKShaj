@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning, and advanced web development**
 
-- 💬 Ask me about **react, nodejs, expressjs, mongodb,javascript,typescript,nextjs**
+- 💬 Ask me about **react, nodejs, expressjs, mongodb, javascript, typescript, nextjs**
 
 - 📫 How to reach me **nischalkshaj5@gmail.com**
 
